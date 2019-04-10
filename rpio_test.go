@@ -1,4 +1,5 @@
-package rpio
+package rpio_test
+
 
 import (
 	"fmt"
